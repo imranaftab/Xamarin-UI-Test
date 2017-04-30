@@ -1,0 +1,15 @@
+D:\MobileApp\UITestDemo\UITestDemo\bin\Debug\UITestDemo.dll
+D:\MobileApp\UITestDemo\UITestDemo\bin\Debug\UITestDemo.pdb
+D:\MobileApp\UITestDemo\UITestDemo\bin\Debug\UITestDemo.UITestDemo.apk
+D:\MobileApp\UITestDemo\UITestDemo\bin\Debug\UITestDemo.UITestDemo-Signed.apk
+D:\MobileApp\UITestDemo\UITestDemo\obj\Debug\UITestDemo.dll
+D:\MobileApp\UITestDemo\UITestDemo\obj\Debug\UITestDemo.pdb
+D:\MobileApp\UITestDemo\UITestDemo\obj\Debug\android\bin\UITestDemo.UITestDemo.apk
+D:\MobileApp\UITestDemo\UITestDemo\obj\Debug\res\layout\main.xml
+D:\MobileApp\UITestDemo\UITestDemo\obj\Debug\res\values\strings.xml
+D:\MobileApp\UITestDemo\UITestDemo\obj\Debug\res\drawable\icon.png
+D:\MobileApp\UITestDemo\UITestDemo\obj\Debug\R.cs.flag
+D:\MobileApp\UITestDemo\UITestDemo\obj\Debug\uploadflags.txt
+D:\MobileApp\UITestDemo\UITestDemo\obj\Debug\UITestDemo.csprojResolveAssemblyReference.cache
+D:\MobileApp\UITestDemo\UITestDemo\obj\Debug\UITestDemo.dll.mdb
+D:\MobileApp\UITestDemo\UITestDemo\bin\Debug\UITestDemo.dll.mdb

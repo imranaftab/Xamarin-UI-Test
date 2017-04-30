@@ -1,0 +1,9 @@
+D:\MobileApp\UITestDemo\UITest\bin\Debug\UITest.dll
+D:\MobileApp\UITestDemo\UITest\bin\Debug\UITest.pdb
+D:\MobileApp\UITestDemo\UITest\bin\Debug\nunit.framework.dll
+D:\MobileApp\UITestDemo\UITest\bin\Debug\Xamarin.UITest.dll
+D:\MobileApp\UITestDemo\UITest\bin\Debug\nunit.framework.xml
+D:\MobileApp\UITestDemo\UITest\bin\Debug\Xamarin.UITest.xml
+D:\MobileApp\UITestDemo\UITest\obj\Debug\UITest.csprojResolveAssemblyReference.cache
+D:\MobileApp\UITestDemo\UITest\obj\Debug\UITest.dll
+D:\MobileApp\UITestDemo\UITest\obj\Debug\UITest.pdb

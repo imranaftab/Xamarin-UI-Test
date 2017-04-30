@@ -1,0 +1,4 @@
+UITestDemo.MainActivity, UITestDemo;md586098561ba2214440c308fb335fc108b.MainActivity
+UITestDemo.MainActivity, UITestDemo, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md586098561ba2214440c308fb335fc108b.MainActivity
+UITestDemo.MainActivity;md586098561ba2214440c308fb335fc108b.MainActivity
+uitestdemo.MainActivity;md586098561ba2214440c308fb335fc108b.MainActivity
